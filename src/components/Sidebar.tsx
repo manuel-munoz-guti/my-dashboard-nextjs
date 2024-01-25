@@ -48,6 +48,7 @@ export const Sidebar = () => {
                             alt="User avatar"
                             width={50}
                             height={50}
+                            priority={true}
                         />
                     </span>
                     <span className="text-sm md:text-base font-bold">
